@@ -7,8 +7,6 @@
 </div>
 
 ## 🎯 Problem Statement
-[Rest of the README content remains the same...]
-## 🎯 Problem Statement
 Sales team needs to unlock hidden insights from sales data to support better decision-making and automate the manual data gathering process. The key objectives are:
 - Create an automated dashboard for quick sales insights
 - Enable data-driven decision making
