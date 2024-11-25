@@ -1,7 +1,5 @@
 # Sales Data Analysis Dashboard
 
-# Sales Data Analysis Dashboard
-
 <div align="center">
   <img src="dashboard.png" alt="Sales Analysis Dashboard" width="100%">
   
