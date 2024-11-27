@@ -12,8 +12,8 @@ This project is a **dynamic, interactive dashboard** built using **Looker Studio
 - **Objective**: Analyze sales, profit, and customer data to derive business insights.
 - **Data Source**: Historical sales data for multiple categories (Office Supplies, Furniture, Technology).
 - **Tools Used**: 
-  - 📊 **Looker Studio** for creating dashboards.
-  - 📂 **Microsoft Excel** for initial data processing.
+  - 📊 **![Looker Studio](./Looker_icon.png)** for creating dashboards.
+  - 📂 **![Microsoft Excel](./excel_logo.png)** for initial data processing.
 
 ---
 
