@@ -44,7 +44,7 @@ This project is a **dynamic, interactive dashboard** built using **Looker Studio
 ## 🛠️ **Tools Used**
 
 ### 1. **Looker Studio**
-![Looker Studio Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Google_Data_Studio_Logo.png/120px-Google_Data_Studio_Logo.png)  
+![Looker Studio Logo](Looker-icon.png)  
 Google Looker Studio was used to design the interactive dashboard, enabling advanced filtering and dynamic visualizations.
 
 ---
