@@ -11,11 +11,6 @@ This project is a **dynamic, interactive dashboard** built using **Looker Studio
 
 - **Objective**: Analyze sales, profit, and customer data to derive business insights.
 - **Data Source**: Historical sales data for multiple categories (Office Supplies, Furniture, Technology).
-- **Tools Used**: 
-  -  **![Looker Studio](./Looker-icon.png)**
-    For creating dashboards.
-  -  **![Microsoft Excel](./excel-logo.png)**
-    For initial data processing.
 
 ---
 
@@ -64,3 +59,6 @@ Microsoft Excel was employed for data cleaning, processing, and preparing the da
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/sales-analysis-dashboard.git
+
+---
+Created By : IBRAHIM MUSTAFA ZABI
