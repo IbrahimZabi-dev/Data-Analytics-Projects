@@ -13,9 +13,9 @@ This project is a **dynamic, interactive dashboard** built using **Looker Studio
 - **Data Source**: Historical sales data for multiple categories (Office Supplies, Furniture, Technology).
 - **Tools Used**: 
   -  **![Looker Studio](./Looker-icon.png)**
-    for creating dashboards.
+    For creating dashboards.
   -  **![Microsoft Excel](./excel-logo.png)**
-    for initial data processing.
+    For initial data processing.
 
 ---
 
