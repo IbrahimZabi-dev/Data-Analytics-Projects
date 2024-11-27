@@ -1,5 +1,8 @@
 # 📊 Sales and Profit Analysis Dashboard
 
+![Dashboard Preview](./dashboard-preview.png)  
+**[Click here to view the full dashboard](https://lookerstudio.google.com/s/hJpf2rTdnM0)**
+
 This project is a **dynamic, interactive dashboard** built using **Looker Studio**. It provides actionable insights into sales and profitability trends, customer behaviors, and regional performance. Designed for data-driven decision-making, the dashboard incorporates intuitive visualizations and advanced filters.
 
 ---
@@ -38,6 +41,20 @@ This project is a **dynamic, interactive dashboard** built using **Looker Studio
 - `Data Source.xlsx` - Raw data used for visualization.
 - `Untitled_Report.pdf` - Exported dashboard report.
 - `README.md` - Documentation for the project.
+
+---
+
+## 🛠️ **Tools Used**
+
+### 1. **Looker Studio**
+![Looker Studio Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Google_Data_Studio_Logo.png/120px-Google_Data_Studio_Logo.png)  
+Google Looker Studio was used to design the interactive dashboard, enabling advanced filtering and dynamic visualizations.
+
+---
+
+### 2. **Microsoft Excel**
+![Microsoft Excel Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/120px-Microsoft_Excel_2013-2019_logo.svg.png)  
+Microsoft Excel was employed for data cleaning, processing, and preparing the dataset for analysis.
 
 ---
 
