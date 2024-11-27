@@ -1,6 +1,6 @@
 # 📊 Sales and Profit Analysis Dashboard
 
-![Dashboard Preview](./dashboard-preview.png)  
+![Dashboard Preview](./dashboard-png.png)  
 **[Click here to view the full dashboard](https://lookerstudio.google.com/s/hJpf2rTdnM0)**
 
 This project is a **dynamic, interactive dashboard** built using **Looker Studio**. It provides actionable insights into sales and profitability trends, customer behaviors, and regional performance. Designed for data-driven decision-making, the dashboard incorporates intuitive visualizations and advanced filters.
