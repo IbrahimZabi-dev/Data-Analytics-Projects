@@ -1,1 +1,16 @@
+# Ultra-Marathon Data Analysis
+
+## Overview
+This project explores ultra-marathon running data to answer key performance-related questions using Python. 
+
+## Key Insights
+- Male and female athletes show differing speeds in 50K and 50-mile races.
+- Age significantly impacts performance, with peak and suboptimal ranges.
+- Seasonal variations affect running times.
+
+## Code Snippets
+### Filtering and Cleaning Data
+```python
+# Combine filters for USA, 50K, and 50 miles races
+filtered_data = data[(data['distance'].isin(['50K', '50mi'])) & (data['country'] == 'USA')]
 
