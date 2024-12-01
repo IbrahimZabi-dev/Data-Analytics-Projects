@@ -1,16 +1,48 @@
-# Ultra-Marathon Data Analysis
+## Exploratory Data Analysis of Ultra-Marathon Running Data
 
-## Overview
-This project explores ultra-marathon running data to answer key performance-related questions using Python. 
+### Project Summary
+This project involves exploratory data analysis (EDA) on a dataset of ultra-marathon races. The dataset provides insights into race events, athletes' performances, and other related attributes. The primary goal is to uncover trends, compare performances across different groups, and answer specific analytical questions.
 
-## Key Insights
-- Male and female athletes show differing speeds in 50K and 50-mile races.
-- Age significantly impacts performance, with peak and suboptimal ranges.
-- Seasonal variations affect running times.
+### Key Features
+- Filtering race events by distance (50K or 50 miles) and location (USA).
+- Cleaning and preprocessing data, including handling missing values, renaming columns, and fixing data types.
+- Creating visualizations to understand patterns, including gender differences, age group performance, and seasonal trends.
 
-## Code Snippets
-### Filtering and Cleaning Data
-```python
-# Combine filters for USA, 50K, and 50 miles races
-filtered_data = data[(data['distance'].isin(['50K', '50mi'])) & (data['country'] == 'USA')]
+### Libraries Used
+- **pandas**: For data manipulation and preprocessing.
+- **seaborn**: For generating statistical visualizations.
+- **Custom Modules**: The notebook references `Atghlete` and `Event`, which may be custom data structures or modules specific to this project.
 
+### Problem Statement
+The project seeks to answer the following questions:
+1. What are the performance differences between male and female runners in 50K and 50-mile races?
+2. Which age groups perform the best and worst in 50-mile races?
+3. How do seasons affect race times and performance metrics?
+
+### Dataset
+- Source: [Kaggle Ultra-Marathon Running Dataset](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running?resource=download).
+- Data includes attributes like event names, distances, athlete speeds, genders, ages, and more.
+
+### Methods Used
+1. **Data Cleaning and Preparation**
+   - Removed irrelevant columns.
+   - Fixed data types and standardized formats.
+   - Handled missing values and cleaned text fields.
+   - Filtered data to focus on specific events (50K and 50 miles in the USA).
+   
+2. **Exploratory Analysis**
+   - Investigated distributions, patterns, and correlations.
+   - Analyzed gender-based performance differences.
+   - Evaluated age-based performance trends.
+
+3. **Visualization**
+   - Created comparative charts and graphs using `seaborn`.
+
+---
+
+### Next Steps
+1. **Add Visual Content**: Enhance this README with example plots generated during the analysis.
+2. **Polish Documentation**: Include specific observations or insights discovered during the analysis.
+3. **Host on GitHub**: Include instructions for running the notebook locally, requirements, and acknowledgments.
+
+Let me know if you'd like me to generate example plots from your data for inclusion or create a polished README file!
